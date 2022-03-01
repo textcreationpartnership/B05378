@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Laws and ordinances, touching military discipline. Translated into English by I.D.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05378</idno>
+            <idno type="STC">Wing S1507E</idno>
+            <idno type="STC">ESTC R183070</idno>
+            <idno type="EEBO-CITATION">52615062</idno>
+            <idno type="OCLC">ocm 52615062</idno>
+            <idno type="VID">176167</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05378)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176167)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2762:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Laws and ordinances, touching military discipline. Translated into English by I.D.</title>
+                  <author>I. D.</author>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the heir of Andrew Anderson, ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  Regulations --  Early works to 1800.</term>
+               <term>Military law --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176167:1" rendition="simple:additions"/>
+            <p>LAWS AND ORDINANCES, Touching Military Diſcipline.</p>
+            <p>
+               <hi>Tranſlated into Engliſh by</hi> I. D.</p>
+            <figure>
+               <figDesc>crown (possibly a printer's device)</figDesc>
+            </figure>
+            <p>
+               <hi>Edinburgh,</hi> Re-Printed by the Heir of <hi>Andrew Anderſon,</hi> Prin<g ref="char:EOLhyphen"/>ter to Their moſt Excellent Majeſties, 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="laws_and_ordinances">
+            <pb facs="tcp:176167:2"/>
+            <pb n="3" facs="tcp:176167:2"/>
+            <head>Laws and Ordinances touching Military Diſcipline.</head>
+            <p>VVHereas by daily experience, many diſorders are found, to grow amongſt thoſe that bear Arms, tending to the great damage of thoſe Countreys, and prejudice of the Government thereof, which notwithſtanding, are not any where ſo puniſhed as in reaſon they ought, becauſe there is no certain Order, or Law touching like matters as yet Decreed and Publiſh<g ref="char:EOLhyphen"/>ed: The States General of the United Provinces, have therefore (with the Advice of the Council of State of the ſame) ordained, appointed, and decreed, Do by theſe Pre<g ref="char:EOLhyphen"/>ſents Ordain, Appoint, and Decree the Orders or Laws here enſuing, which, their will is, to give from point to point ſtrictly obſerved and followed by all thoſe that bear Arms in their Service; To which end it ſhall be every where Publiſhed, and accordingly Sworn to by the Sol<g ref="char:EOLhyphen"/>diers.</p>
+            <p n="1">1. FIrſt, he that ſhall take the Lords Name in vain, or blaſpheme the ſame, ſhall for the firſt time make an honourable amends, and be kept three days in Priſon at Bread and Water: The ſecond time ſhall have a glowing Iron thruſt through his Tongue, then be ſtrip<g ref="char:EOLhyphen"/>ped to his Shirt, and ſo baniſhed out of the United Pro<g ref="char:EOLhyphen"/>vinces.</p>
+            <p n="2">2. The like Penalty shall they incur, for the firſt and ſecond times, who shall either do or ſay ought in deſpite, or deriſion of God's Word, or the Miniſters of the Church.</p>
+            <pb n="4" facs="tcp:176167:3"/>
+            <p n="3">3. All wilful Murthers, Raps, Adultery, Firing of Houſes, Thievry, Violence, Outrage, Falshood, and o<g ref="char:EOLhyphen"/>ther like bad Facts, and open offences, or unnatural A<g ref="char:EOLhyphen"/>buſes, shall be punished with Death.</p>
+            <p n="4">4. None shall any way Outrage, Strike, Knoke, Beat, Threaten or dishoneſtly touch any Widows, Married or Unmarried Women, ſuch as are in Child-bed, or with Child, or any young Children, on pain to be Diſcharged without Money or Paſport, or elſe punished Corporally, according to the quality of the offence. Likewiſe all com<g ref="char:EOLhyphen"/>mon Whores shall for the firſt time be expulſed out of the Camp with shame, and being found there the ſecond time, ſoundly Whipped and Banished.</p>
+            <p n="5">5. He that ſhall have done or conſpired ought againſt the States, the Countrey, Towns, or other places there<g ref="char:EOLhyphen"/>of, or againſt any Governours, or Captains in the ſame, whereby the publick State of the Land may be in any ſort endammaged, or endangered: As alſo, whoſoever ſhall conſent thereunto, ſhall without any mercy be Hanged.</p>
+            <p n="6">6. The like Puniſhment shall they alſo incur, whoſoever coming to the knowledge of any ſuch matter, shal not re<g ref="char:EOLhyphen"/>veal it to their Captain, or chief Officers.</p>
+            <p n="7">7. None shal raiſe any Mutiny, or make any unlawful Aſſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bly, on whatſoever ſecret, cloaked, or other pur<g ref="char:EOLhyphen"/>poſes: Nor for what cauſe ſoever it be, without Order from their Commanders, on pain of hanging,</p>
+            <p n="8">8. In like ſort shal they alſo be punished, that shal be preſent at ſuch Aſſemblies, or call, ſtir up, and incite any to be preſent thereat. And is to be underſtood alſo, that ſuch Officers as shal be at the like Seditious Meetings, shal receive punishment before all other Soldiers, except thoſe (that are no Authors thereof.)</p>
+            <p n="9">9. He that shal ſpeak ill of the States General, or par<g ref="char:EOLhyphen"/>ticular,
+<pb n="25" facs="tcp:176167:3"/>the Council of State, or other Superiours, or shal ſpeak ought to deſpiſe or deride any of them, shal without mercy be punished with Death.</p>
+            <p n="10">10. He that shal have ſpoken any words tending to Se<g ref="char:EOLhyphen"/>dition, Mutiny, or Diſobedience, or that having heard ſuch words, and shal not preſently acquaint his Captain therewith, shal be punished with Death.</p>
+            <p n="11">11. In like ſort shal they alſo be punished, who rehearſe any ſuch words in preſence of private Soldiers, either of themſelves, or by ſuggeſtion of others, or practiſe ought, whereby any Mutiny or Sedition may grow.</p>
+            <p n="12">12. No man being out of Garded, or Beſieged places, or in other like caſes, shal uſe any Speech or Correſpon<g ref="char:EOLhyphen"/>dence with the Enemy, nor ſend him any Meſſages, or Let<g ref="char:EOLhyphen"/>ters, nor receive any from him, nor deal in like ſort with any of his Confederates, be it in ſecret or publick, with<g ref="char:EOLhyphen"/>out the Conſent firſt had of his Governour or Captain, or that he make it forthwith known unto him, unleſs he be thereto authoriſed. Neither shal any man be adherent, or in any ſort aſſiſtant to the Enemy, on pain of death.</p>
+            <p n="13">13. Likewiſe none shal Confer or Converſe with any Trumpet or Drum of the Enemies, or any other ſent on Meſſage from him, but they only who are thereto appoin<g ref="char:EOLhyphen"/>ted, on pain of death.</p>
+            <p n="14">14. None shal in going, departing, lying ſtill, Muſte<g ref="char:EOLhyphen"/>ring, or in Garriſon, do Outrage, or Spoil to the Inhabi<g ref="char:EOLhyphen"/>tants of theſe Countreys, their Favourers or Confederats, or take from them any Victuals, Money or ought elſe, with<g ref="char:EOLhyphen"/>out paying duly for the ſame, nor yet throw down, or ſpoil any Water-Milns, or Water-Works, nor ſet on fire the ſame, or other Houſes, or elſe the Camp, at the breaking up thereof, without ſpecial Command from the General, or other chief Officers, on pain of Death.</p>
+            <pb n="6" facs="tcp:176167:4"/>
+            <p n="15">15. Likewiſe none shal either do or practiſe ought a<g ref="char:EOLhyphen"/>gainſt any Perſons, Towns, Villages, Forts, Havens or what<g ref="char:EOLhyphen"/>ſoever Goods warranted by Paſports, or other Aſſurances from the Generality, on pain of Death.</p>
+            <p n="16">16. He that will depart from one Company to ano<g ref="char:EOLhyphen"/>ther, or elſewhere, or will leave the Colours under which he ſerveth, is to have a ſufficient Paſport from his Captain, or Commander, and failing therein, shal be punished with Death.</p>
+            <p n="17">17. Whatſoever Captain shal entertain Soldiers with<g ref="char:EOLhyphen"/>out a lawful Diſcharge from their former Captain, shal be punished with Death.</p>
+            <p n="18">18. If any Soldier (ſerving on Horſe or Foot) shal knock or ſtrike his Hoſt, Hoſteſs, their Man or Maid-ſer<g ref="char:EOLhyphen"/>vants, he shal for the firſt time be kept three days at Bread and Water; the ſecond, make an honourable amends, and before the whole Watch be diſarmed, and then banished out of the Company. And if the party ſo ſtriken be maim<g ref="char:EOLhyphen"/>ed, or Blood drawn, then shal the Soldier offending have his Hand ſtriken off.</p>
+            <p n="19">19. Whoſoever shal have taken or ſtoln any Victuals, or other Proviſions brought up, towards the Camp, Garri<g ref="char:EOLhyphen"/>ſon, or any Towns, or Places under the Jurisdiction of the States General, shal be Hanged.</p>
+            <p n="20">20. Likewiſe, none shal out of the Camp or Garriſon for<g ref="char:EOLhyphen"/>cibly take, or elſe buy up before hand, any Victuals or Goods bound thitherwards, before the ſame shal be brought to a fit place for ſale, and Taxed: Neither ſhall he Rob any Cabbin, Shop, Tent, Victualer, or Merchand that is there, for the help of the Camp or Garriſon, on pain of Death.</p>
+            <p n="21">21. He that shal go out of the Quarter from his Co<g ref="char:EOLhyphen"/>lours, or Garriſon, further than a Canon Shot, without
+<pb n="7" facs="tcp:176167:4"/>his Captains leave, shal be puniſhed with Death.</p>
+            <p n="22">22. Whoſoever ſhall go out of the Camp, Beſieged-Town, Fort, or other place, without the ſpecial conſent of his Captain, or Officer, for any cauſe, be it for Forrage, or ought elſe, ſhal be Hanged.</p>
+            <p n="23">23. Whoſoever shal take any Cattel, or Beaſts within the Lands that ly under the obedience of the Generality, shal be punished as a Thief.</p>
+            <p n="24">24. He that in Marching by Land towards the Field, or in returning thence, shal forſake his Colours, or Cor<g ref="char:EOLhyphen"/>net, shal without any mercy be punished with Death.</p>
+            <p n="25">25. And whoſoever (not being viſited with manifeſt Sickneſs, and the ſame known to his Captain, or Com<g ref="char:EOLhyphen"/>mander) shal keep along with the Baggage, or ride on the Waggons, shal be diſarmed before the whole Com<g ref="char:EOLhyphen"/>pany, and then banished without Money or Paſport.</p>
+            <p n="26">26. If any shal neglect his Watch, or Service commit<g ref="char:EOLhyphen"/>ed unto him, he shal be punished with Death.</p>
+            <p n="27">27. It any Souldier shal be found ſleeping on his Senti<g ref="char:EOLhyphen"/>nel, he shal without any mercy be punished with Death.</p>
+            <p n="28">28, Whatſoever Souldier shal, either by day or night, depart from his Sentinel, where he hath been placed by his Corporal, unleſs he be called thence, or relieved by the ſaid Corporal, shal receive punishment of Death without any mercy.</p>
+            <p n="29">29. None shal declare or make known the Watch-word to the Enemy, or any other, nor give any other Word than is given him by the Officer, on pain of Death.</p>
+            <p n="30">30. Whoſoever shal abſent himſelf out of the Court of Guard above two hours in the day-time, or any within the night, without his Corporals leave, shal be punished with Death.</p>
+            <p n="31">31. None shal without lawful cauſe raiſe any Tumult,
+<pb n="8" facs="tcp:176167:5"/>or alarm, nor Diſcharge a Piece by night, nor make any noiſe, nor do ought elſe, whereby the ſame may grow (with<g ref="char:EOLhyphen"/>out cauſe) on pain of Death.</p>
+            <p n="32">32. He that shal preſume within the Camp, Quarter, or place, where he lyeth in Garriſon, as alſo after the Watch is ſet, to draw his Weapon shal forfeit his Life: As alſo if he do it out of the Camp, Town, or place, with<g ref="char:EOLhyphen"/>out leave of his Officer.</p>
+            <p n="33">33. He that shal ſtrike any man with his Sword undrawn, or with a Cudgel, Stone, or otherwiſe, that Bloud follow, shal loſe his Hand.</p>
+            <p n="34">34 He that shal give any one a Box on the Ear, ſhall in preſence of the Company take the like Box again of the party ſo wronged, and beſides be Diſarmed and Banished the Company.</p>
+            <p n="35">35 No Souldier shal without Order from their chief Captains, or Commanders, hold any common Meeting, or gathering together, be it to demand Money or ought elſe, nor yet be preſent at ſuch Aſſemblies, on pain of Death. Provided always, that ſuch Captains, or commanders as shal ſuffer the ſame to happen at undue Seaſons, and in unlawfulwiſe, shal (for an example to others) be punish<g ref="char:EOLhyphen"/>ed with Death before all the Souldiers.</p>
+            <p n="36">36. If any ſhal call for Money as they are Marching in the face of the Enemy, or upon any Enterpriſe, they ſhal receive puniſhment of Death without any mercy.</p>
+            <p n="37">37. If it chance that the Monethly Entertainment be not payed on every day, or that it cannot be ſent unto the Souldiers for ſome cauſe, be it through any hinderance of the Enemy, or otherwiſe, none ſhall therefore make any Tumult, or ſpeak Seditious Words, or ſeek to force his Captain to the payment thereof, neither yet any whit the leſs Diſcharge, and have care of his Marches and Watches,
+<pb n="9" facs="tcp:176167:5"/>but contenting himſelf with a reaſonable Loan, until the Money be come, or may come, ſhal fully perform the Duty required of a good Soldier. And whoſoever doth the contrary, or accompany thoſe that do it, ſhal be puniſhed with Death.</p>
+            <p n="38">38. No Captains, Lieutenants, or Enſigns, ſhal depart out of their place where their Companies ly in Garriſon, whether it be to ſolicite for payment of their ſaid Compa<g ref="char:EOLhyphen"/>nies, or for their own buſineſs, without leave of their Commanders or Governour, on pain of Death.</p>
+            <p n="39">39. He that ſhal in any Quarrel, fight, or otherwiſe call thoſe of his Nation to help, or gather an Aſſembly; ſhal be hanged.</p>
+            <p n="40">40. He that ſhal be found by day or night out of the Camp, or place Beſieged, without his Captains leave, ſhal be puniſhed with Death.</p>
+            <p n="41">41. Whoſoever ſhal go on Free-booting, and commit Spoils, Extortions, and Theft, ſhal be hanged.</p>
+            <p n="42">42. If one Soldier challenge another into the Field, without leave from him that commands in that Quarter, he ſhal be puniſhed with Death.</p>
+            <p n="43">43. If any Corporal, or other commanding the Watch, ſhal ſuffer two Soldiers to go forth to fight, he ſhal without mercy be puniſhed with Death.</p>
+            <p n="44">44. Any Soldier being wronged by Word or Deed, he ſhal repair to him that commands in the Quarter, who after the hearing of both Parties<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ſhal cauſe ſatifacti<g ref="char:EOLhyphen"/>on of the wrong to be made unto the Party intereſſed, with bare head, and in preſence of the whole Watch: And if he find cauſe, ſhal alſo diſarm the Wrong-doer, and baniſh him out of the Company.</p>
+            <p n="45">45. And if there be no Witneſs of the Quarrel, then ſhal the ſaid Commander cauſe the Parties to agree in his
+<pb n="10" facs="tcp:176167:6"/>preſence, whereto if they will not condeſcend; then both, or he that denyes it, ſhall be diſarmed, and baniſhed out of the Company.</p>
+            <p n="46">46. Whatſoever Soldier or Commander ſhal go out of the Camp, Town, or Fort, or enter thereinto by any o<g ref="char:EOLhyphen"/>ther way than at the Ports and ordinary Entrances, ſhall be hanged.</p>
+            <p n="47">47. If any Soldier ſhal refuſe the Command of his Cap<g ref="char:EOLhyphen"/>tain, or any other who Commands over him in the ſervice of the States General, and not perform the ſame, he ſhall be puniſhed with Death; as he likewiſe ſhal, who tranſ<g ref="char:EOLhyphen"/>greſſeth any of the Generals Commandments publiſhed by ſound of Drum or Trumpet.</p>
+            <p n="48">48. At the ſounding of any Alarm, every one ſhal re<g ref="char:EOLhyphen"/>ſort to his Enſign, or Cornet, and whoſoever comes not thither (unleſs it be on apparent neceſſity) or runs to a<g ref="char:EOLhyphen"/>nother place without conſent and ſpecial order from his Commander, or comes not ſo ſoon as his Enſign, ſhal be puniſhed with Death.</p>
+            <p n="49">49. Every<g ref="char:punc">▪</g> Soldier ſhall aid and defend his Colours by day and night, and on the firſt warning repair unto them, not departing thence, until it be brought into a place of ſafe<g ref="char:EOLhyphen"/>ty, on pain of death.</p>
+            <p n="50">50. If any ſhal depart out of the Order, or Rank where<g ref="char:EOLhyphen"/>in he is placed, unleſs it be on neceſſary occaſions, and that he had therewith acquainted his Officer, he ſhall be puni<g ref="char:EOLhyphen"/>ſhed with death.</p>
+            <p n="51">51. He that ſhal firſt begin to flee in Battel or Aſſault, may lawfully be ſlain thereupon by any one; and if he e<g ref="char:EOLhyphen"/>ſcape, he ſhal be declared a Villain, and receive puniſh<g ref="char:EOLhyphen"/>ment of death without mercy.</p>
+            <p n="52">52. None that is appointed to the defence of any Breach, Trench, or Skonce, be it a Captain or Soldier, ſhal wil<g ref="char:EOLhyphen"/>lingly
+<pb n="11" facs="tcp:176167:6"/>forſake the ſame, or through any falſe or coloured occaſions or excuſes, abſent himſelf from thence, without ſufficient order, or warrand allowed by the Council of War, on pain of death.</p>
+            <p n="53">53. None ſhal ſurrender or deliver to the Enemy any place, the keeping whereof is committed unto him, on pain of death.</p>
+            <p n="54">54. Likewiſe none ſhal run from his Quarter, in a Be<g ref="char:EOLhyphen"/>ſieged place, cry for Compoſition, or ſpeak thereof, be unwilling to fight, labour, or defend their Quarter, or make others unwilling thereunto, or do ought elſe in ſuch a place, whereby the defence thereof may be hindred, on pain of death without any mercy.</p>
+            <p n="55">55. If any man run away to the Enemy, or in ſuch his flight be taken by the Enemy, he ſhall be puniſhed with death.</p>
+            <p n="56">56. No captains ſhal ſeduce, or entice away each others Soldiers, on pain of death.</p>
+            <p n="57">57. Whoſoever ſhal by word or deed buſie himſelf with the Sergeant. Major doing his Office, be he Captain or Soul<g ref="char:EOLhyphen"/>dier, ſhal withou mercy be puniſhed with death; as he al<g ref="char:EOLhyphen"/>ſo shal, who will not content himſelf with that Quarter or Lodging, whereto he ſhal be appointed to be Quarter-ma<g ref="char:EOLhyphen"/>ſter or Furrier, or who will diſturb another man in his place.</p>
+            <p n="58">58. If any Soldier having the Watch, shal come to his Colours not fully Armed, to March with the reſt into the Watch, he shal for the firſt time be kept three days at bread and water, the ſecond diſarmed, and banished for three Months out of the Company, and the third time affer death.</p>
+            <p n="59">59. Every one of what condition ſoever he be, ſhall forthwith, or before the evening bring before him that
+<pb n="12" facs="tcp:176167:7"/>Commands in the Quarter, all ſuch Priſoners as ſhal be ta<g ref="char:EOLhyphen"/>ken of the Enemy, on pain of forfeiting the ſaid Priſoners, and to be punished beſides with death.</p>
+            <p n="60">60. And if any ſhal take Priſoner a General Comman<g ref="char:EOLhyphen"/>der, or other man of account of the Enemy, he is forth<g ref="char:EOLhyphen"/>with to preſent, or cauſe to be preſented the ſaid Priſoner unto the States General, or Council of State, and withal to deliver him over, as alſo whatſoever other Priſoners they will take to themſelves, receiving therefore a reaſonable reward, according to the quality and ability of the Priſo<g ref="char:EOLhyphen"/>ner; provided that it exceed not the ſum of 5000 Gilders: And ſo the ſaid Priſoner ſhal be at the diſpoſing of the a<g ref="char:EOLhyphen"/>foreſaid States, and he that took him pretend no further intereſt in that behalf.</p>
+            <p n="61">61. Likewiſe none ſhal kill any Priſoner, or ſet his ran<g ref="char:EOLhyphen"/>ſom, or after the payment of the ſaid Ranſom, ſuffer him to depart without leave of the General, or him that com<g ref="char:EOLhyphen"/>mands the Quarter, on pain of being diſarmed, and bani<g ref="char:EOLhyphen"/>shed out of theſe Countries.</p>
+            <p n="62">62. And if any Priſoner be found walking along the Campeſo, place of Garriſon, without leave of the Gene<g ref="char:EOLhyphen"/>ral, or him that commands there, he to whom the Priſo<g ref="char:EOLhyphen"/>ner belongeth shal forfeit him to thoſe who shal firſt lay hands on the ſaid Priſoner.</p>
+            <p n="63">63. Concerning lawful Prizes, whoſoever bring in the ſame, shal acquaint therewith the General, or him that commands in the Quarter, within three hours after their return, to the end they may be accordingly Regiſtred, on pain of forfeiting the ſame, and to be beſides punished on the body.</p>
+            <p n="64">64. Whoſoever shal have gotten any thing upon the Enemy, and giveth not notice thereof, as aforeſaid, that it may be Regiſtred, and after ſold in the Camp or place of
+<pb n="13" facs="tcp:176167:7"/>Garriſon, but shal ſell, or cauſe it to be ſold in the Places or Towns near thereunto, ſhal without any mercy be pu<g ref="char:EOLhyphen"/>niſhed with death, to the end that better order be held in all, and no man wronged in his Right.</p>
+            <p n="65">65. When a Soldier ſhall have done any offence or fault, his Captain shal be bound (on pain of three Months ſuſpenſion from his Charge) to deliver the ſaid Soldier into the Generals hands, or his that commands in the Quarter, who with the Captains, Lieutenants, and En<g ref="char:EOLhyphen"/>ſigns then preſent, ſhal upon the information, which he ſhal cauſe to be taken thereof, Judge according to theſe Orders and Laws.</p>
+            <p n="66">66. He that is drunk on his Watch day, shal be caſſier<g ref="char:EOLhyphen"/>ed, and baniſhed out of the Company.</p>
+            <p n="67">67. If any one drink himſelf drunk and in his drunken<g ref="char:EOLhyphen"/>neſs commit any ill, or ought forbidden, he shal not there<g ref="char:EOLhyphen"/>by be excuſed, but ſomuch the more sharply punished.</p>
+            <p n="68">68. If any Captain or Soldier shal refuſe the Muſter or Review, he ſhall be Caſſiered.</p>
+            <p n="69">69. None shal at the Muſter let himſelf be entered by a changed, or other name than his own, nor paſs Muſter with a borrowed Horſe or Arms; neither ſhall any on the Muſter day lend the like, on pain of being diſarmed, and banished out of the Company.</p>
+            <p n="70">70. None shal let himſelf be entered, or Muſter under two Companies, on pain of death.</p>
+            <p n="71">71. None shal diminish or pawn his Arms, which are appointed him by his Captain, on pain of being diſarmed, and baniſhed for ſix Months out of the Company.</p>
+            <p n="72">72. None ſhal likewiſe take or pawn any Soldiers Arms, on pain of loſing double the worth of the Pawn.</p>
+            <p n="73">73. None shal play away or quite his Arms, but keep the ſame always clean and ſerviceable, on pain of being
+<pb n="14" facs="tcp:176167:8"/>Cassiered out of the Company without Paſſport.</p>
+            <p n="74">74. None shal by couſenage get away his Fellows Pro<g ref="char:EOLhyphen"/>viſions, Victuals, or Arms, on pain of being diſarmed, and banished for three Months out of the Company or elſe beſides, of ſuſtaining corporal punishment, according to the quality of the offence.</p>
+            <p n="75">75. He that shal preſume to ſet upon a Commiſſary of the Muſters, or wrong him either in word or deed, ſhal be punished with death.</p>
+            <p n="76">76. If any Captain give his Souldiers leſs than the Pay allowed him by the States, he shal be diſgraded.</p>
+            <p n="77">77. If any Soldier proffer to draw his Weapon againſt his Chief, or Commander, he shal be punished with death.</p>
+            <p n="78">78. If the Provoſt or his Officers apprehend one or more Soldiers, none (of what degree ſoever) shal oppoſe himſelf there againſt, or reſcue, or attempt to reſcue the ſaid Priſoners, on pain of death</p>
+            <p n="79">79. Furthermore, no Officer nor Gentleman of any Com<g ref="char:EOLhyphen"/>pany of Horſe or Foot, nor any common Soldier, shall victual in any Camp, without the Generals ſpecial conſent, on pain of being diſarmed</p>
+            <p n="80">80. Likewiſe all Victuallers that victual in the Camp, shal be ſubject to the aforeſaid Articles, and the Council of War there being, on the penalty herein contained, and ſhal not draw any Wine or Beer for any one in the even<g ref="char:EOLhyphen"/>ing, an hour after Suns ſetting or in the morning as much before the rifing thereof, on pain of forfaulting 3 Gilders for every time they shal be found to have done ſo: The ſaid Forefault to be converted, the one half thereof to the Provoſts behove, and the other to the relief of the Poor.</p>
+            <p n="81">81. All other abuſes and offences not ſpecified in theſe Orders, ſhall be punished according to the Ordinances, Laws, and Cuſtoms of the War.</p>
+            <pb n="15" facs="tcp:176167:8"/>
+            <p n="82">82. And if any Soldiers ſhould not be preſent at the proclaiming of theſe Orders and Laws, they shal notwith<g ref="char:EOLhyphen"/>ſtanding be as much bound to the obſervation of them, as the other who were preſent. But to the end none may pretend ignorance, and every one have notice thereof, the States General have given Order, that the ſame shal be every where published on the Muſter-day, and charged the Commiſſaries to cauſe all the Souldiers to ſwear accor<g ref="char:EOLhyphen"/>dingly thereunto.</p>
+            <p>THus done and decreed at <hi>Arnhem,</hi> after ſundry Con<g ref="char:EOLhyphen"/>ferences had hereupon with the chiefeſt Command<g ref="char:EOLhyphen"/>ers of theſe united Provinces; It being further appointed, that theſe Orders and Laws shal be published both in the Camp, and whereſoever elſe it shal be meet and requi<g ref="char:EOLhyphen"/>ſite, and that at every Muſter the Commiſſaries shal read and propound the ſame again unto the Companies. <hi>Auguſt</hi> 13. 1590.</p>
+            <closer>
+               <signed>By Order of the Council of State, <hi>Chr. Huygens.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="license">
+            <pb n="16" facs="tcp:176167:9"/>
+            <opener>
+               <dateline>Edinburgh, <date>
+                     <hi>Auguſt</hi> 31. 1691.</date>
+               </dateline>
+            </opener>
+            <p>THe Lords of Their Majeſties Privy Council, Do hereby Ordain <hi>The Articles and Rules for the better Go<g ref="char:EOLhyphen"/>vernment of the Forces in this Kingdom,</hi> Printed by Order of His Royal Majeſty King <hi>Charles</hi> the Second, in the Year One thouſand ſix hundred ſeventy five, to be of new Re-printed, as the ſame are Altered and Amended by Their Lordſhips. And likewiſe Ordains <hi>The Laws and Ordinances touching Military-Diſcipline,</hi> which are Printed at the <hi>Hague</hi> in <hi>Anno</hi> One thouſand ſix hundred ſeventy ſix, and by Order of the Council of <hi>Scotland</hi> Re-Printed at <hi>Edinburgh</hi> in <hi>Anno</hi> One thouſand ſix hundred eighty nine, to be again Re-printed. For doing of all which, theſe Preſents ſhall be to all Perſons Concerned, a ſufficient Warrand. Extracted forth of the Records of Privy Council, by me</p>
+            <closer>
+               <signed>
+                  <hi>GILB. ELIOT,</hi> Cls. Sti. Concilii.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
